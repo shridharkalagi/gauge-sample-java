@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+target
+.idea/
+.gradle/
+*.iml
+*/build/
+*.xmi
+logs/
+.gauge/
+gauge_*/
+out/
+.DS_Store
+*/reports/**
+nohup.out
